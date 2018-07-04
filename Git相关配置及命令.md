@@ -5,7 +5,7 @@
 ## 配置
 
 ### 提交保存密码
-    git config --global credential.helper store 
+    git config credential.helper store --global 
     会在用户主目录的.gitconfig文件中生成下面的配置
     [credential]
         helper = store

@@ -21,7 +21,7 @@ js高亮
 
 ### html-css-js-prettify
 代码格式化
-```
+```js
 {
     "all":
     {
@@ -58,7 +58,7 @@ mardown表格编辑插件，`"enable_table_editor": true,` 开启tab快捷键
 
 
 ### 全局配置
-```
+```js
 {
   "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme", // 设置代码主题
   "enable_table_editor": true,
