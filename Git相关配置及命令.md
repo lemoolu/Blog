@@ -19,3 +19,6 @@
 
 ### windows下status乱码
     git config --global core.quotepath false
+
+### cmder 乱码
+	Settings –> Startup –> Environment，添加：set LANG=zh_CN.UTF8
