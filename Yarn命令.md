@@ -67,3 +67,9 @@ yarn install --force // 重新拉取所有包，即使之前已经安装的
 yarn install --flat // 安装所有依赖，但每个依赖只允许有一个版本存在。 第一次运行这个命令时，会提示你在每个依赖包的多个版本范围中选择一个版本。 这会被添加到你的 package.json 文件的 resolutions 字段。
 ```
 
+
+### yarn global
+```
+yarn global list // 查看全局安装库
+yarn global add create-react-app // 添加全局库
+```
