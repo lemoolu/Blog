@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "something notes",
+  "main": "index.js",
+  "scripts": {
+    "gen": "node scripts/generate-readme/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milolu/Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milolu/Blog/issues"
+  },
+  "homepage": "https://github.com/milolu/Blog#readme",
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "path": "^0.12.7"
+  }
+}

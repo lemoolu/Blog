@@ -7,10 +7,10 @@
 * [不吹不黑聊聊前端框架-尤雨溪 总结.md](https://github.com/milolu/Blog/blob/master/Web/%E4%B8%8D%E5%90%B9%E4%B8%8D%E9%BB%91%E8%81%8A%E8%81%8A%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6-%E5%B0%A4%E9%9B%A8%E6%BA%AA%20%E6%80%BB%E7%BB%93.md)
 * [前端国际化.md](https://github.com/milolu/Blog/blob/master/Web/%E5%89%8D%E7%AB%AF%E5%9B%BD%E9%99%85%E5%8C%96.md)
 
-## 工具
-* [Git相关配置及命令.md](https://github.com/milolu/Blog/blob/master/%E5%B7%A5%E5%85%B7/Git%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE%E5%8F%8A%E5%91%BD%E4%BB%A4.md)
-* [markdown基本语法.md](https://github.com/milolu/Blog/blob/master/%E5%B7%A5%E5%85%B7/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
-* [Sublime插件及配置.md](https://github.com/milolu/Blog/blob/master/%E5%B7%A5%E5%85%B7/Sublime%E6%8F%92%E4%BB%B6%E5%8F%8A%E9%85%8D%E7%BD%AE.md)
+## Tools
+* [Git相关配置及命令.md](https://github.com/milolu/Blog/blob/master/Tools/Git%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE%E5%8F%8A%E5%91%BD%E4%BB%A4.md)
+* [markdown基本语法.md](https://github.com/milolu/Blog/blob/master/Tools/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
+* [Sublime插件及配置.md](https://github.com/milolu/Blog/blob/master/Tools/Sublime%E6%8F%92%E4%BB%B6%E5%8F%8A%E9%85%8D%E7%BD%AE.md)
 
 ## Node
 
