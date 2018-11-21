@@ -1,3 +1,9 @@
+---
+title: Sublime插件及配置
+date: 2017-10-01
+tags: git
+---
+
 ## 插件
 
 ### ALL Autocomplete
